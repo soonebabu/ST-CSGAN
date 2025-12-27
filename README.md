@@ -1,4 +1,3 @@
-﻿<<<<<<< HEAD
 # Conditional Stacked GAN with Skip-thought Vectors
 ### Text to Image Synthesis
 ---
@@ -29,6 +28,7 @@ and saved in Data folder.
 - The dataset CUB-200 is downloaded from the site http://www.vision.caltech.edu/visipedia/CUB-200.html.
 - The downloaded dataset is saved in the folder Data/birds.
 ```
+
 # ST-CSGAN — Conditional Stacked GAN with Skip-thought Vectors
 
 Text-to-image synthesis project that implements a stacked conditional GAN (two-stage) guided by skip-thought text embeddings. The codebase trains on the CUB-200 birds dataset and can generate bird images conditioned on text descriptions.
