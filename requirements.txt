@@ -1,0 +1,14 @@
+tensorflow
+numpy
+progressbar
+python-dateutil
+easydict
+pandas
+torchfile
+requests
+Theano
+gensim
+pydot
+pandas
+Pillow
+nltk
