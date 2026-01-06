@@ -1,3 +1,5 @@
+https://conference.ioe.edu.np/ioegc10/papers/ioegc-10-095-10129.pdf
+
 # Conditional Stacked GAN with Skip-thought Vectors
 ### Text to Image Synthesis
 ---
@@ -121,4 +123,5 @@ Edit `configuration.py` to change dataset paths, model hyperparameters, and trai
 - The original code was developed and tested in Google Colaboratory. Some paths and environment assumptions reflect that. If you run locally, adjust paths in `configuration.py`.
 - The code references both TensorFlow and Theano in `requirements.txt`. Use Python versions and package versions compatible with the models. Consider creating a dedicated virtualenv or conda environment.
 - If you see missing-package errors for `skipthoughts` or `torchfile`, install them separately or use the versions in `requirements.txt`.
+
 
